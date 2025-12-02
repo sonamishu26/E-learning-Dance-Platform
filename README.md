@@ -82,11 +82,14 @@ The interface includes:
 
 ✅ This project demonstrates **role-based user management and e-learning platform functionality** using PHP and MySQL.
 
-![1](https://github.com/user-attachments/assets/65291379-4e34-464a-9fec-33f1e7f474c9)
-![2](https://github.com/user-attachments/assets/d6ee0d17-ea96-498c-9a4b-b33c51af168b)
-![3](https://github.com/user-attachments/assets/4ea499f6-56d0-484f-b075-3366473ababa)
-![4](https://github.com/user-attachments/assets/66510f9e-a3eb-4c4f-a973-2424547205cb)
-![5](https://github.com/user-attachments/assets/d698c7a6-0936-4bb0-93bb-93ef88af1519)
-![6](ht![7](https://github.com/user-attachments/assets/ea4b0fa5-aca3-4cbb-a9ee-8b60127f0503)
-tps://github.com/user-attachments/assets/fab95fb1-c8a7-47b7-93cd-5d79b9e7141c)
-![8](https://github.com/user-attachments/assets/d017464f-c082-41b1-bf78-cd7178597113)
+![6159190811837402434](https://github.com/user-attachments/assets/6e7cc6b5-165c-41c5-8281-5e4e72355846)
+
+<img width="1280" height="657" alt="image_2025-12-02_21-07-49" src="https://github.com/user-attachments/assets/e6af9689-af9b-4fb8-81b7-2e62ea71c2aa" />
+<img width="1280" height="613" alt="image_2025-12-02_21-08-06" src="https://github.com/user-attachments/assets/ef0108f5-910e-44ab-9682-80dbc9791259" />
+<img width="1280" height="587" alt="image_2025-12-02_21-08-20" src="https://github.com/user-attachments/assets/3fa5b60b-449f-4e75-a556-c46566b0fc74" />
+<img width="1280" height="554" alt="image_2025-12-02_21-08-33" src="https://github.com/user-attachments/assets/65c92a1f-df76-4736-bf17-475d8297e9ff" />
+<img width="1280" height="464" alt="image_2025-12-02_21-08-51" src="https://github.com/user-attachments/assets/7175bf7f-9f80-44f3-a8ab-d890022e6f70" />
+
+
+
+
